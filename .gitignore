@@ -1,4 +1,4 @@
-.DS_Store
+gDS_Store
 .project
 doc
 distribution/
@@ -9,9 +9,6 @@ distribution/
 cscope.out
 *~
 
-# symlinks created for pathogen
-/ftplugin
-/doc
 
 # Distribution files
 # */sparkup
